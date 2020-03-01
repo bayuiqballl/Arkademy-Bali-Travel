@@ -1,4 +1,4 @@
 # Arkademy-Bali-Travel
 
 link deploy
-https://nifty-sinoussi-c3bfed.netlify.com/
+https://dreamy-meitner-8f7626.netlify.com/
