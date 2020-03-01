@@ -191,6 +191,19 @@ html {
 
 /*============ page3 ========== */
 
+.banner-page2 {
+    background-image: url(/img/bg2.png);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-size: no-repeat;
+    background-position: center center;
+    height: 100%;
+    filter: blur(5px);
+
+}
+
+
+
 input[type=text],
 textarea {
     width: 60%;
